@@ -22,7 +22,7 @@ fetch(`https://api.github.com/users/${githubUser}/repos`)
 
 // 2. PDFs — Adicione manualmente os links dos seus PDFs
 const pdfs = [
-  { name: "Currículo", url: "link-do-seu-pdf.pdf" },
+  { name: "Currículo", url: "https://github.com/CarlosDutra740/Portfolio-Carlos-Dutra/blob/main/CV%20Curriculum%20vitae%20curr%C3%ADculo%20minimalista%20emprego%20linkedin%20procuro%20emprego%20desenvolvedor%20tecnologia%20preto%20e%20branco.pdf" },
   { name: "Certificado", url: "link-do-certificado.pdf" }
 ];
 const pdfList = document.getElementById('pdf-list');
