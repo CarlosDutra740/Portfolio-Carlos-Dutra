@@ -1,15 +1,24 @@
 // 1. Buscar repositórios do GitHub
 const githubUser = "CarlosDutra740"; // Seu usuário GitHub
 const repoList = document.getElementById('repo-list');
+
 fetch(`https://api.github.com/users/${githubUser}/repos`)
   .then(res => res.json())
   .then(repos => {
     repos.forEach(repo => {
       const li = document.createElement('li');
-      li.innerHTML = `<a href="${repo.html_url}" target="_blank">${repo.name}</a> - ${repo.description || ''}`;
+
+      // Link para o repositório
+      const repoLink = `<a href="${repo.html_url}" target="_blank">GitHub</a>`;
+
+      // Link para o GitHub Pages
+      const pagesLink = `<a href="https://${githubUser}.github.io/${repo.name}/" target="_blank">Pages</a>`;
+
+      li.innerHTML = `${repo.name} - ${repo.description || ''} [${repoLink} | ${pagesLink}]`;
       repoList.appendChild(li);
     });
   });
+
 
 // 2. PDFs — Adicione manualmente os links dos seus PDFs
 const pdfs = [
