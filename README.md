@@ -23,17 +23,6 @@ script.js	Interactive behaviors, animations, or client-side logic
 
 You can browse the code, test it locally, and adapt it for new projects as well.
 
-Curriculum Vitae
-# Curriculum Vitae
-
-## Personal Information
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **Phone**: [Your Phone]
-- **Location**: [Your Location]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [Your GitHub]
-  
 ## Summary
 Electrical Engineer with a strong background in automation, control systems, and machine learning. Passionate about bridging traditional engineering with modern technologies to create innovative and efficient solutions. Proficient in Python for data analysis, automation, and predictive modeling. Focused on leveraging technology to optimize industrial and energy systems.
 
