@@ -35,16 +35,16 @@ Electrical Engineer with a strong background in automation, control systems, and
 
 ## Certifications
 - **Programmable Logic Controllers (PLCs)**  
-  SENAI, 2025
+  [SENAI], 2025
   
 - **Building Automation and Electrical Controls**
-  SENAI, 2023
+  [SENAI], 2023
   
 - **Safety in Electrical Installations and Services - NR10**
-  [Certifying Institution], 2021
+  [SENAI], 2021
 
 - **Electronic Machine Actuation**
-  [Certifying Institution], 2024
+  [SENAI], 2024
 
 ## Skills
 - **Programming Languages**: Python, JavaScript, C/C++, SQL
@@ -71,6 +71,6 @@ Electrical Engineer with a strong background in automation, control systems, and
 - **English**: Advanced
 
 ## Contact Information
-- Email: [Your Email]amorimdutra.carlos@gmail.com
-- LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/dutracarlos/)
-- GitHub: [[Your GitHub]](https://github.com/CarlosDutra740)
+- Email: [[Email]](amorimdutra.carlos@gmail.com)
+- LinkedIn: [[LinkedIn]](https://www.linkedin.com/in/dutracarlos/)
+- GitHub: [[GitHub]](https://github.com/CarlosDutra740)
