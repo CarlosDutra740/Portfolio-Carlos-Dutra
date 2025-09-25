@@ -27,6 +27,8 @@ Este repositório contém (ou serve de base para) meu site pessoal / portfólio.
 | `script.js`      | Comportamentos interativos, animações ou lógica cliente |
 | `CV — currículo.pdf` | Versão em PDF do meu currículo, para download ou consulta |
 
+---
+
 Você pode navegar no código, testar localmente e adaptá-lo para novos projetos também.
 
 ---
