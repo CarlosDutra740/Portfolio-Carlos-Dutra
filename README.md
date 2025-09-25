@@ -8,16 +8,16 @@ I am an electrical engineer with a strong focus on electrical systems, automatio
 
 My engineering background extends into Python programming applied to data analysis and machine learning, bridging the gap between the physical and digital worlds. I develop predictive models, smart automations, and decision support tools that enhance industrial and energy processes. Programming logic has become an extension of engineering, enabling simulations, diagnostics, and optimizations at scale.
 
-I see technology as an architecture of possibilities: energy, data, and automation integrated into a unified vision of advanced systems. I draw inspiration from cutting-edge engineering concepts—from smart grids to AI applications—to build solutions that not only solve problems but also set new standards for efficiency. This is the space where I aim to operate, at the intersection of reality and potential.
+I see technology as an architecture of possibilities: energy, data, and automation integrated into a unified vision of advanced systems. I draw inspiration from cutting-edge engineering concepts, from smart grids to AI applications, to build solutions that not only solve problems but also set new standards for efficiency. This is the space where I aim to operate, at the intersection of reality and potential.
 
-This portfolio serves as a showcase of my most relevant projects, technical skills, and professional journey. My goal is to demonstrate what I have accomplished and how I can add value to future projects—whether in employment, as a freelancer, or through partnerships.
+This portfolio serves as a showcase of my most relevant projects, technical skills, and professional journey. My goal is to demonstrate what I have accomplished and how I can add value to future projects, whether in employment, as a freelancer, or through partnerships.
 
 # Projects
 
 This repository contains (or serves as the basis for) my personal website/portfolio. The key files/components are:
 
 File/Folder	Description
-index.html	Main page of the portfolio — layout, structure, and public content
+index.html	Main page of the portfolio -- layout, structure, and public content
 style.css	Visual styles (colors, typography, responsiveness, etc.)
 script.js	Interactive behaviors, animations, or client-side logic
 
