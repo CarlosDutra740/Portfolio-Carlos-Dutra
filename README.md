@@ -1,33 +1,87 @@
+Welcome to My Personal Portfolio
 
-> Bem-vindo ao meu portfólio pessoal. Aqui você encontrará meus projetos, habilidades e contatos.
+Here, you will find my projects, skills, and contact information.
 
----
+# About Me
 
-## Sobre
+I am an electrical engineer with a strong focus on electrical systems, automation, and networks. My career is driven by the pursuit of solutions that blend technical robustness with forward-thinking, connecting classical engineering with emerging technologies. With every project, I aim to transform complexity into clear, scalable, and intelligent systems.
 
-Engenheiro eletricista com forte atuação em sistemas elétricos, automação e redes. Minha trajetória é guiada pela busca de soluções que unam robustez técnica com visão de futuro, conectando a engenharia clássica a tecnologias emergentes. A cada projeto, busco transformar complexidade em sistemas claros, escaláveis e inteligentes.
+My engineering background extends into Python programming applied to data analysis and machine learning, bridging the gap between the physical and digital worlds. I develop predictive models, smart automations, and decision support tools that enhance industrial and energy processes. Programming logic has become an extension of engineering, enabling simulations, diagnostics, and optimizations at scale.
 
-Minha formação em engenharia se expande para o domínio do Python aplicado à análise de dados e machine learning, criando pontes entre o mundo físico e o digital. Com isso, desenvolvo modelos preditivos, automações inteligentes e ferramentas de suporte à decisão que potencializam processos industriais e energéticos. A lógica de programação se torna uma extensão da engenharia, permitindo simulações, diagnósticos e otimizações em escala.
+I see technology as an architecture of possibilities: energy, data, and automation integrated into a unified vision of advanced systems. I draw inspiration from cutting-edge engineering concepts—from smart grids to AI applications—to build solutions that not only solve problems but also set new standards for efficiency. This is the space where I aim to operate, at the intersection of reality and potential.
 
-Enxergo tecnologia como arquitetura de possibilidades: energia, dados e automação integrados em uma única visão de sistemas avançados. Me inspiro em conceitos de engenharia de ponta — de redes inteligentes a IA aplicada — para construir soluções que não apenas resolvem problemas, mas definem novos padrões de eficiência. É nesse espaço, entre o real e o potencial, que busco atuar.
+This portfolio serves as a showcase of my most relevant projects, technical skills, and professional journey. My goal is to demonstrate what I have accomplished and how I can add value to future projects—whether in employment, as a freelancer, or through partnerships.
 
-Este portfólio é uma vitrine dos meus projetos, aptidões técnicas e trajetória. Meu objetivo é mostrar o que já fiz de mais relevante e como posso agregar valor em projetos futuros — seja no emprego, como freelancer ou parcerias.
+# Projects
 
----
+This repository contains (or serves as the basis for) my personal website/portfolio. The key files/components are:
 
-## Projetos
+File/Folder	Description
+index.html	Main page of the portfolio — layout, structure, and public content
+style.css	Visual styles (colors, typography, responsiveness, etc.)
+script.js	Interactive behaviors, animations, or client-side logic
 
-Este repositório contém (ou serve de base para) meu site pessoal / portfólio. Os principais arquivos / componentes:
+You can browse the code, test it locally, and adapt it for new projects as well.
 
-| Arquivo / Pasta | Descrição |
-|------------------|-----------|
-| `index.html`     | Página principal do portfólio — layout, estrutura e conteúdo público |
-| `style.css`      | Estilos visuais (cores, tipografia, responsividade etc.) |
-| `script.js`      | Comportamentos interativos, animações ou lógica cliente |
-| `CV — currículo.pdf` | Versão em PDF do meu currículo, para download ou consulta |
+Curriculum Vitae
+# Curriculum Vitae
 
----
+## Personal Information
+- **Name**: [Your Name]
+- **Email**: [Your Email]
+- **Phone**: [Your Phone]
+- **Location**: [Your Location]
+- **LinkedIn**: [Your LinkedIn]
+- **GitHub**: [Your GitHub]
+  
+## Summary
+Electrical Engineer with a strong background in automation, control systems, and machine learning. Passionate about bridging traditional engineering with modern technologies to create innovative and efficient solutions. Proficient in Python for data analysis, automation, and predictive modeling. Focused on leveraging technology to optimize industrial and energy systems.
 
-Você pode navegar no código, testar localmente e adaptá-lo para novos projetos também.
+## Education
+- **Bachelor's Degree in Electrical Engineering**
+  - UNIVAP - Universidade do Vale do Paraíba, São José dos Campos - SP, 2025
+  
+- **Technician in Electronics**
+  - CEPHAS, São José dos Campos - SP, 2016
 
----
+## Certifications
+- **Programmable Logic Controllers (PLCs)**  
+  SENAI, 2025
+  
+- **Building Automation and Electrical Controls**
+  SENAI, 2023
+  
+- **Safety in Electrical Installations and Services - NR10**
+  [Certifying Institution], 2021
+
+- **Electronic Machine Actuation**
+  [Certifying Institution], 2024
+
+## Skills
+- **Programming Languages**: Python, JavaScript, C/C++, SQL
+- **Tools & Technologies**: MATLAB, Simulink, AutoCAD, PLCs, SCADA Systems
+- **Automation**: Building Automation, Industrial Automation, PLC Programming
+- **Data Analysis & Machine Learning**: Pandas, Numpy, Scikit-learn, TensorFlow, Keras
+- **Electrical Systems**: Circuit Design, Power Distribution, Smart Grids
+- **Safety & Compliance**: NR10, Electrical Installation Standards, Hazard Analysis
+
+
+## Projects
+
+### Smart Energy Management System
+- Designed and implemented a smart grid system using IoT and machine learning for real-time energy optimization.
+
+### Automated Industrial Process
+- Developed a PLC-based automation system to streamline production lines and reduce operational costs.
+
+### Predictive Maintenance System
+- Created a predictive maintenance system using machine learning algorithms to forecast equipment failures in manufacturing plants.
+
+## Languages
+- **Portuguese**: Native
+- **English**: Advanced
+
+## Contact Information
+- Email: [Your Email]amorimdutra.carlos@gmail.com
+- LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/dutracarlos/)
+- GitHub: [[Your GitHub]](https://github.com/CarlosDutra740)
