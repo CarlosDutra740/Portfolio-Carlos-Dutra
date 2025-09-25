@@ -1,4 +1,4 @@
-# Portfolio de Carlos Henrique Amorim Dutra
+# Portfolio de Carlos Dutra
 
 > Bem-vindo ao meu portfólio pessoal. Aqui você encontrará meus projetos, habilidades e contatos.
 
@@ -18,7 +18,7 @@
 
 ## Sobre
 
-Sou Carlos Henrique Amorim Dutra, engenheiro eletricista com forte atuação em sistemas elétricos, automação e redes. Minha trajetória é guiada pela busca de soluções que unam robustez técnica com visão de futuro, conectando a engenharia clássica a tecnologias emergentes. A cada projeto, busco transformar complexidade em sistemas claros, escaláveis e inteligentes.
+Engenheiro eletricista com forte atuação em sistemas elétricos, automação e redes. Minha trajetória é guiada pela busca de soluções que unam robustez técnica com visão de futuro, conectando a engenharia clássica a tecnologias emergentes. A cada projeto, busco transformar complexidade em sistemas claros, escaláveis e inteligentes.
 
 Minha formação em engenharia se expande para o domínio do Python aplicado à análise de dados e machine learning, criando pontes entre o mundo físico e o digital. Com isso, desenvolvo modelos preditivos, automações inteligentes e ferramentas de suporte à decisão que potencializam processos industriais e energéticos. A lógica de programação se torna uma extensão da engenharia, permitindo simulações, diagnósticos e otimizações em escala.
 
