@@ -2,6 +2,35 @@
 const githubUser = "CarlosDutra740"; // Seu usuário GitHub
 const repoList = document.getElementById('repo-list');
 
+const repoName = "Portfolio-Carlos-Dutra"; // o repositório onde está o README
+const aboutSection = document.getElementById("about-content");
+
+fetch(`https://api.github.com/repos/${githubUser}/${repoName}/readme`)
+  .then(res => res.json())
+  .then(data => {
+    if (data.content) {
+      // Decodifica Base64
+      const decoded = atob(data.content.replace(/\n/g, ""));
+      // Converte Markdown básico para HTML simples (sem lib externa)
+      const htmlContent = decoded
+        .replace(/^# (.*$)/gim, "<h1>$1</h1>")
+        .replace(/^## (.*$)/gim, "<h2>$1</h2>")
+        .replace(/^### (.*$)/gim, "<h3>$1</h3>")
+        .replace(/\*\*(.*)\*\*/gim, "<strong>$1</strong>")
+        .replace(/\*(.*)\*/gim, "<em>$1</em>")
+        .replace(/\n$/gim, "<br />");
+      aboutSection.innerHTML = htmlContent;
+    } else {
+      aboutSection.innerHTML = "<p>Não foi possível carregar o README.</p>";
+    }
+  })
+  .catch(err => {
+    console.error(err);
+    aboutSection.innerHTML = "<p>Erro ao carregar o README.</p>";
+  });
+
+
+
 fetch(`https://api.github.com/users/${githubUser}/repos`)
   .then(res => res.json())
   .then(repos => {
