@@ -10,6 +10,8 @@ fetch(`https://api.github.com/repos/${githubUser}/${repoName}/readme`)
   .then(res => res.json())
   .then(data => {
     if (data.content) {
+      const decoded = atob(data.content.replace(/\n/g, ""));
+
       // Converte Markdown para HTML com marked
       const htmlContent = marked.parse(decoded);
       aboutSection.innerHTML = htmlContent;
