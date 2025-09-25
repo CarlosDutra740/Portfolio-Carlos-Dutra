@@ -48,7 +48,7 @@ Electrical Engineer with a strong background in automation, control systems, and
 
 ## Skills
 - **Programming Languages**: Python, JavaScript, C/C++, SQL
-- **Tools & Technologies**: MATLAB, Simulink, AutoCAD, PLCs, SCADA Systems
+- **Tools & Technologies**: MATLAB, Simulink, AutoCAD, Revit, PLCs, SCADA Systems, TIA Portal
 - **Automation**: Building Automation, Industrial Automation, PLC Programming
 - **Data Analysis & Machine Learning**: Pandas, Numpy, Scikit-learn, TensorFlow, Keras
 - **Electrical Systems**: Circuit Design, Power Distribution, Smart Grids
