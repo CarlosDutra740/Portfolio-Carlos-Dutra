@@ -6,12 +6,13 @@ const repoName = "Portfolio-Carlos-Dutra"; // o repositório onde está o README
 const aboutSection = document.getElementById("about-content");
 
 
+
 fetch(`https://api.github.com/repos/${githubUser}/${repoName}/readme`)
   .then(res => res.json())
   .then(data => {
     if (data.content) {
+      // Decodifica Base64
       const decoded = atob(data.content.replace(/\n/g, ""));
-
       // Converte Markdown para HTML com marked
       const htmlContent = marked.parse(decoded);
       aboutSection.innerHTML = htmlContent;
@@ -23,7 +24,6 @@ fetch(`https://api.github.com/repos/${githubUser}/${repoName}/readme`)
     console.error(err);
     aboutSection.innerHTML = "<p>Erro ao carregar o README.</p>";
   });
-
 
 
 fetch(`https://api.github.com/users/${githubUser}/repos`)
