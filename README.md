@@ -1,4 +1,3 @@
-# Portfolio de Carlos Dutra
 
 > Bem-vindo ao meu portfólio pessoal. Aqui você encontrará meus projetos, habilidades e contatos.
 
