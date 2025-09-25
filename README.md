@@ -4,18 +4,6 @@
 
 ---
 
-## 📋 Sumário
-
-- [Sobre](#sobre)  
-- [Projetos](#projetos)  
-- [Tecnologias & Ferramentas](#tecnologias--ferramentas)  
-- [Como executar localmente](#como-executar-localmente)  
-- [Currículo / CV](#curr%C3%ADculo--cv)  
-- [Contato](#contato)  
-- [Licença](#licen%C3%A7a)  
-
----
-
 ## Sobre
 
 Engenheiro eletricista com forte atuação em sistemas elétricos, automação e redes. Minha trajetória é guiada pela busca de soluções que unam robustez técnica com visão de futuro, conectando a engenharia clássica a tecnologias emergentes. A cada projeto, busco transformar complexidade em sistemas claros, escaláveis e inteligentes.
@@ -37,7 +25,7 @@ Este repositório contém (ou serve de base para) meu site pessoal / portfólio.
 | `index.html`     | Página principal do portfólio — layout, estrutura e conteúdo público |
 | `style.css`      | Estilos visuais (cores, tipografia, responsividade etc.) |
 | `script.js`      | Comportamentos interativos, animações ou lógica cliente |
-| `CV — currículo minimalista.pdf` | Versão em PDF do meu currículo, para download ou consulta |
+| `CV — currículo.pdf` | Versão em PDF do meu currículo, para download ou consulta |
 
 Você pode navegar no código, testar localmente e adaptá-lo para novos projetos também.
 
