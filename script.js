@@ -58,7 +58,9 @@ pdfs.forEach(pdf => {
 
 // 3. Vídeos do YouTube — Adicione manualmente os IDs dos vídeos
 const youtubeVideos = [
-  "dQw4w9WgXcQ", // Exemplo de ID
+  "ZWf5Ho9GxTs",
+  "dQw4w9WgXcQ",
+  "0Zej36MxxIo",// Exemplo de ID
   // Adicione mais IDs aqui
 ];
 const youtubeList = document.getElementById('youtube-list');
