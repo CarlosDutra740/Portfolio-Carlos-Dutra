@@ -55,8 +55,8 @@ Electrical Engineer with a strong background in automation, control systems, and
 - **Voice Analysis**
  [[PUC- CAMPINAS]]
 
-- **REVIT Advanced Modeling and Scripting
--   [SENAC], 2025
+- **REVIT Advanced Modeling and Scripting**
+  [[SENAC]], 2025
 
 
 ## Skills
