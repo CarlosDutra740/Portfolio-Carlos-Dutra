@@ -134,6 +134,7 @@ Electrical Engineer with a strong background in automation, control systems, and
 - **English**: Advanced
 
 ## Contact Information
+- https://pixmeacoffee.vercel.app/carlosdutra01
 - Email: [[Email]](amorimdutra.carlos@gmail.com)
 - LinkedIn: [[LinkedIn]](https://www.linkedin.com/in/dutracarlos/)
 - GitHub: [[GitHub]](https://github.com/CarlosDutra740)
